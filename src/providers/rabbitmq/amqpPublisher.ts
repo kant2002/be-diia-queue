@@ -3,7 +3,7 @@ import { EventEmitter } from 'events'
 import { Channel, Options, Replies } from 'amqplib'
 import { v4 as uuid } from 'uuid'
 
-import { Logger } from '@diia-inhouse/types'
+import { Logger } from '@kant2002-diia-inhouse/types'
 
 import constants from '../../constants'
 import { ConnectionStatus, ExchangeType, PublishOptions, QueueMessageData } from '../../interfaces'

@@ -1,4 +1,4 @@
-import { Logger, OnInit } from '@diia-inhouse/types'
+import { Logger, OnInit } from '@kant2002-diia-inhouse/types'
 
 import { EventBusListener, EventBusQueue, MessageHandler, MessagePayload, SubscribeOptions } from '../interfaces'
 import { InternalEvent, InternalQueueName } from '../interfaces/queueConfig'

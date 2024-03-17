@@ -2,7 +2,7 @@ const collectEventBusListeners = jest.fn()
 
 jest.mock('@src/utils', () => ({ collectEventBusListeners }))
 
-import { mockClass } from '@diia-inhouse/test'
+import { mockClass } from '@kant2002-diia-inhouse/test'
 
 import { asyncLocalStorage, eventMessageHandler, logger } from '../mocks'
 

@@ -17,7 +17,7 @@ class RabbitMQProvider {
 jest.mock('@src/providers/rabbitmq', () => ({ RabbitMQProvider }))
 jest.mock('@src/utils', () => ({ validateAndGetQueueConfigs }))
 
-import { HttpStatusCode } from '@diia-inhouse/types'
+import { HttpStatusCode } from '@kant2002-diia-inhouse/types'
 
 import { connectOptions } from '../../mocks/services/queue'
 import { asyncLocalStorage, logger } from '../mocks'

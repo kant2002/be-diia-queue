@@ -1,4 +1,4 @@
-import { ValidationSchema } from '@diia-inhouse/validators'
+import { ValidationSchema } from '@kant2002-diia-inhouse/validators'
 
 import { TaskListener } from '@interfaces/index'
 

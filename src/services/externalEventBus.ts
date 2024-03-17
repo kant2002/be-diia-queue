@@ -1,5 +1,5 @@
-import { EnvService } from '@diia-inhouse/env'
-import { Logger, OnInit } from '@diia-inhouse/types'
+import { EnvService } from '@kant2002-diia-inhouse/env'
+import { Logger, OnInit } from '@kant2002-diia-inhouse/types'
 
 import { EventBusListener, ExternalEventBusQueue, MessageHandler, MessagePayload, PublishOptions, SubscribeOptions } from '../interfaces'
 import { EventListeners } from '../interfaces/externalCommunicator'

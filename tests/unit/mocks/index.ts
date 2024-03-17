@@ -1,10 +1,10 @@
 import { AsyncLocalStorage } from 'async_hooks'
 
-import Logger from '@diia-inhouse/diia-logger'
-import { EnvService } from '@diia-inhouse/env'
-import { CacheService, PubSubService } from '@diia-inhouse/redis'
-import { mockClass } from '@diia-inhouse/test'
-import { AppValidator } from '@diia-inhouse/validators'
+import Logger from '@kant2002-diia-inhouse/diia-logger'
+import { EnvService } from '@kant2002-diia-inhouse/env'
+import { CacheService, PubSubService } from '@kant2002-diia-inhouse/redis'
+import { mockClass } from '@kant2002-diia-inhouse/test'
+import { AppValidator } from '@kant2002-diia-inhouse/validators'
 
 import { EventMessageHandler, InternalEvent, QueueContext } from '@src/index'
 

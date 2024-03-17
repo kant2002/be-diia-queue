@@ -1,4 +1,4 @@
-import { Counter } from '@diia-inhouse/diia-metrics'
+import { Counter } from '@kant2002-diia-inhouse/diia-metrics'
 
 import { TotalListenerChannelErrorsLabelsMap, TotalMessageHandlerErrorsLabelsMap } from '../interfaces/metrics'
 

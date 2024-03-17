@@ -3,7 +3,7 @@ import * as os from 'os'
 
 import { Channel, Connection, Options, connect } from 'amqplib'
 
-import { Logger } from '@diia-inhouse/types'
+import { Logger } from '@kant2002-diia-inhouse/types'
 
 import { ConnectionStatus, ReconnectOptions, SocketOptions } from '../../interfaces/providers/rabbitmq/amqpConnection'
 

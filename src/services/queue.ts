@@ -1,6 +1,6 @@
 import { AsyncLocalStorage } from 'async_hooks'
 
-import { HealthCheckResult, HttpStatusCode, Logger, OnHealthCheck } from '@diia-inhouse/types'
+import { HealthCheckResult, HttpStatusCode, Logger, OnHealthCheck } from '@kant2002-diia-inhouse/types'
 
 import { ConnectionStatus, QueueConnectionConfig, QueueContext } from '../interfaces'
 import { QueueConfigType } from '../interfaces/queueConfig'

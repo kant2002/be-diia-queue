@@ -1,4 +1,4 @@
-import { Logger, OnInit } from '@diia-inhouse/types'
+import { Logger, OnInit } from '@kant2002-diia-inhouse/types'
 
 import { MessageHandler, MessagePayload, SubscribeOptions, TaskListener, TaskQueue } from '../interfaces'
 import { RabbitMQProvider } from '../providers/rabbitmq'

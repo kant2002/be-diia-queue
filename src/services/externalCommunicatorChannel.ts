@@ -1,4 +1,4 @@
-import { CacheService } from '@diia-inhouse/redis'
+import { CacheService } from '@kant2002-diia-inhouse/redis'
 
 import { ExternalEvent } from '../interfaces/queueConfig'
 

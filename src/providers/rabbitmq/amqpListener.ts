@@ -1,6 +1,6 @@
 import { Channel, ConsumeMessage, Message, Options, Replies } from 'amqplib'
 
-import { Logger } from '@diia-inhouse/types'
+import { Logger } from '@kant2002-diia-inhouse/types'
 
 import constants from '../../constants'
 import { ConnectionStatus, ListenerOptions, QueueMessage, QueueMessageData } from '../../interfaces'

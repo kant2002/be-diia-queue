@@ -1,9 +1,9 @@
 const convertParamsByRules = jest.fn()
 
-jest.mock('@diia-inhouse/utils', () => ({ convertParamsByRules }))
+jest.mock('@kant2002-diia-inhouse/utils', () => ({ convertParamsByRules }))
 
-import { mockClass } from '@diia-inhouse/test'
-import { ValidationSchema } from '@diia-inhouse/validators'
+import { mockClass } from '@kant2002-diia-inhouse/test'
+import { ValidationSchema } from '@kant2002-diia-inhouse/validators'
 
 import { asyncLocalStorage, eventMessageHandler, logger } from '../mocks'
 

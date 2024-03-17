@@ -1,8 +1,8 @@
 import { v4 as uuid } from 'uuid'
 
-import { ExternalCommunicatorError } from '@diia-inhouse/errors'
-import { PubSubService } from '@diia-inhouse/redis'
-import { Logger, OnRegistrationsFinished } from '@diia-inhouse/types'
+import { ExternalCommunicatorError } from '@kant2002-diia-inhouse/errors'
+import { PubSubService } from '@kant2002-diia-inhouse/redis'
+import { Logger, OnRegistrationsFinished } from '@kant2002-diia-inhouse/types'
 
 import { EventBusListener, ExternalEventBusQueue, MessagePayload, PublishOptions, QueueMessageData } from '../interfaces'
 import { EventListeners, ExternalCommunicatorResponse, ReceiveDirectOps, ReceiveOps } from '../interfaces/externalCommunicator'

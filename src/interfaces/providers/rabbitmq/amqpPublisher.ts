@@ -1,4 +1,4 @@
-import { PublicServiceCode } from '@diia-inhouse/types'
+import { PublicServiceCode } from '@kant2002-diia-inhouse/types'
 
 import { PublishOptions } from '../../index'
 import { EventName } from '../../queueConfig'

@@ -1,4 +1,4 @@
-import { AppValidator, ValidationSchema } from '@diia-inhouse/validators'
+import { AppValidator, ValidationSchema } from '@kant2002-diia-inhouse/validators'
 
 import { QueueMessageData } from '../interfaces'
 

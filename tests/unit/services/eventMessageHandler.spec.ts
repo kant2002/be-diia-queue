@@ -1,6 +1,6 @@
 import { randomUUID } from 'crypto'
 
-import { ValidationError } from '@diia-inhouse/errors'
+import { ValidationError } from '@kant2002-diia-inhouse/errors'
 
 import { validMessage } from '../../mocks/services/eventMessageHandler'
 import {

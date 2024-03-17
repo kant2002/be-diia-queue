@@ -1,4 +1,4 @@
-import { Logger, OnInit } from '@diia-inhouse/types'
+import { Logger, OnInit } from '@kant2002-diia-inhouse/types'
 
 import { EventBusListener, MessageHandler, ScheduledTasksQueue, SubscribeOptions } from '../interfaces'
 import { ScheduledTaskEvent, ScheduledTaskQueueName } from '../interfaces/queueConfig'

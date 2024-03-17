@@ -1,5 +1,5 @@
-import { HttpStatusCode } from '@diia-inhouse/types'
-import { ValidationSchema } from '@diia-inhouse/validators'
+import { HttpStatusCode } from '@kant2002-diia-inhouse/types'
+import { ValidationSchema } from '@kant2002-diia-inhouse/validators'
 
 import { EventName, ExternalTopic } from './queueConfig'
 

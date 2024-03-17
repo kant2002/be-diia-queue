@@ -1,6 +1,6 @@
-import { ValidationError } from '@diia-inhouse/errors'
-import { LogData, PublicServiceCode } from '@diia-inhouse/types'
-import { ValidationSchema } from '@diia-inhouse/validators'
+import { ValidationError } from '@kant2002-diia-inhouse/errors'
+import { LogData, PublicServiceCode } from '@kant2002-diia-inhouse/types'
+import { ValidationSchema } from '@kant2002-diia-inhouse/validators'
 
 import { MessagePayload, QueueMessage, QueueMessageMetaData, RabbitMQConfig } from './providers/rabbitmq'
 import {

@@ -1,5 +1,5 @@
-import { Logger } from '@diia-inhouse/types'
-import { ValidationSchema } from '@diia-inhouse/validators'
+import { Logger } from '@kant2002-diia-inhouse/types'
+import { ValidationSchema } from '@kant2002-diia-inhouse/validators'
 
 import { EventBusListener, QueueMessageMetaData } from '@interfaces/index'
 import { ExternalEvent } from '@interfaces/queueConfig'
